@@ -1,0 +1,10 @@
+#Mon Sep 08 10:47:18 EEST 2014
+#translation=yandex
+stopwords=/stopwords_mead.txt
+config=analyzer_config_plain.txt
+ignoreCase=yes
+contentType=normal
+ngram=1
+ngramSort=feedback
+extractSize
+idfdictionary=/enidf.txt

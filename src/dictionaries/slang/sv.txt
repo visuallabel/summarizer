@@ -1,0 +1,11 @@
+sku	skulle
+ska	skall
+tänkt	tänkte
+sker	händer
+stan	staden
+chilla	ta det lungt
+chillar	tar det lungt
+sticka	åka iväg
+kirra	fixa
+
+

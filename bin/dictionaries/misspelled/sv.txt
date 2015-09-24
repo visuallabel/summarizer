@@ -1,0 +1,19 @@
+osv	och så vidare
+pga	på grund av
+ang	angående
+betr	beträffande
+bla.	bland annat
+bla	bland annat
+iom.	i och med
+mm	håller med
+orka	orkar inte
+obs	observera
+mvh	med hjälp av
+tjaba	hejsan
+tjena	hejsan
+tja	hejsan
+d	du
+int	inte
+
+
+
