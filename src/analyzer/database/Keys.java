@@ -16,8 +16,8 @@ package analyzer.database;
 
 public class Keys {
 	// TODO: empty when uploading to git
-	public static  String MYSQL_PW = "resudaem";
-	public static  String MYSQL_UN = "root";
+	public static  String MYSQL_PW;
+	public static  String MYSQL_UN;
 	public static  String MYSQL_DB = "jdbc:mysql://localhost:3306/D2I";
 	public static  String MYSQL_TWITTER_DB = "jdbc:mysql://localhost:3306/twitter";
 }
